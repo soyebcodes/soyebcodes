@@ -53,6 +53,6 @@ I've worked on local marketplace projects using **React.js**, **Next.js**, **HTM
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soyebcodes&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=soyebcodes&theme=radical" alt="GitHub Streak" />
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyebcodes&layout=compact&theme=radical" alt="Top Languages" />
 </p>
