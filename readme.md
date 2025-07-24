@@ -7,7 +7,7 @@
 <h3 align="center">Front-End Web Application Developer</h3>
 
 <p align="center">
-  <a href="mailto:soyeb10191@gmail.com">📧 soyeb10191@gmail.com</a> • 
+  <a href="mailto:soyeb.islam117@gmail.com">📧 soyeb.islam117@gmail.com</a> • 
   <span>📍 Dhaka, Bangladesh</span>
 </p>
 
