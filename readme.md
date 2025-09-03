@@ -3,44 +3,39 @@
 
 <p align="center">
   <a href="mailto:soyeb.islam117@gmail.com">📧 soyeb.islam117@gmail.com</a> • 
-  <span>📍 Dhaka, Bangladesh</span>
+  <span>📍 Rangpur, Bangladesh</span>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer focused on building scalable, user-friendly web applications.  
-I specialize in **React.js**, **Next.js**, and the broader **MERN stack**, with hands-on experience in crafting dynamic platforms—from marketplaces to recipe apps.
+I'm a self-driven MERN Stack Developer with hands-on experience in building scalable, user-friendly web applications.  
+I specialize in **React.js**, **Next.js**, and full-stack architecture using **Node.js**, **Express**, and **MongoDB**.  
+Whether it's crafting intuitive UIs or architecting secure backend systems, I love turning ideas into real-world solutions.
 
-### 👨‍💼 Currently:
-- 🌱 Exploring **Next.js 15** and the new **App Router**
-- ⚡ Improving performance and accessibility in web apps
-- 🧪 Experimenting with **TypeScript** and **Zustand** for better state management
+### 👨‍💼 Currently Working On
+- Building advanced features with **Next.js 15** and **App Router**
+- Enhancing performance and accessibility in production-grade apps
+- Exploring **TypeScript** patterns and scalable state management with **Zustand**
 
 🎯 My mission is to create impactful digital experiences while continuously growing as a developer.
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠 Tech Stack
 
-### 💻 Languages & Frameworks
-- JavaScript (ES6+), TypeScript
-- React.js, Next.js, Redux Toolkit, Zustand
-- Node.js, Express.js, MongoDB, Firebase
-
-### 🎨 Styling & UI
-- Tailwind CSS, ShadCN UI, SASS, HTML/CSS
-- Framer Motion, DaisyUI
-
-### 🧰 Tools & Platforms
-- Git, REST API, Postman, Jest, Vercel
+**Languages:** JavaScript (ES6+), TypeScript  
+**Frontend:** React.js, Next.js, Redux Toolkit, Zustand, TanStack Query, Tailwind CSS, ShadCN UI, Framer Motion  
+**Backend:** Node.js, Express.js, MongoDB, Firebase  
+**Tools:** Git, REST API, Jest, Vercel, Postman  
+**Soft Skills:** Problem-solving, Collaboration, Communication, Time Management, Adaptability
 
 ---
 
 ## 📌 Pinned Projects
 
-Explore my featured projects below—each one showcases my full-stack capabilities and attention to user experience.
+Explore my pinned repositories below to see real-world projects like **MediKart**, **CarWise**, and **TastyTrack**—each built with full-stack technologies and production-ready features.
 
 ---
 
@@ -64,4 +59,4 @@ Explore my featured projects below—each one showcases my full-stack capabiliti
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Simplicity is the soul of efficiency.” – Austin Freeman
