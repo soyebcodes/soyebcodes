@@ -2,7 +2,6 @@
 <h3 align="center">Full-Stack MERN Developer | React & Next.js Specialist</h3>
 
 <p align="center">
-  <a href="mailto:soyeb.islam117@gmail.com">📧 soyeb.islam117@gmail.com</a> • 
   <span>📍 Rangpur, Bangladesh</span>
 </p>
 
@@ -36,16 +35,6 @@ Whether it's crafting intuitive UIs or architecting secure backend systems, I lo
 ## 📌 Pinned Projects
 
 Explore my pinned repositories below to see real-world projects like **MediKart**, **CarWise**, and **TastyTrack**—each built with full-stack technologies and production-ready features.
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:soyeb.islam117@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/soyebislam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/soyebcodes"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
 
 ---
 
