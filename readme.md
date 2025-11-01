@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack MERN Developer | React & Next.js Specialist</h3>
 
 <p align="center">
-  <span>📍 Rangpur, Bangladesh</span>
+  <span>📍 Dhaka, Bangladesh</span>
 </p>
 
 ---
