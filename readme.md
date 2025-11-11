@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Soyeb Islam 👋</h1>
-<h3 align="center">Full-Stack MERN Developer | React & Next.js Specialist</h3>
+<h3 align="center">Full-Stack Developer | React & Next.js Specialist</h3>
 
 <p align="center">
   <span>📍 Dhaka, Bangladesh</span>
@@ -14,7 +14,7 @@ I specialize in **React.js**, **Next.js**, and full-stack architecture using **N
 Whether it's crafting intuitive UIs or architecting secure backend systems, I love turning ideas into real-world solutions.
 
 ### 👨‍💼 Currently Working On
-- Building advanced features with **Next.js 15** and **App Router**
+- Building advanced features with **Next.js 16** and **App Router**
 - Enhancing performance and accessibility in production-grade apps
 - Exploring **TypeScript** patterns and scalable state management with **Zustand**
 
@@ -29,22 +29,6 @@ Whether it's crafting intuitive UIs or architecting secure backend systems, I lo
 **Backend:** Node.js, Express.js, MongoDB, Firebase  
 **Tools:** Git, REST API, Jest, Vercel, Postman  
 **Soft Skills:** Problem-solving, Collaboration, Communication, Time Management, Adaptability
-
----
-
-## 📌 Pinned Projects
-
-Explore my pinned repositories below to see real-world projects like **MediKart**, **CarWise**, and **TastyTrack**—each built with full-stack technologies and production-ready features.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soyebcodes&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyebcodes&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
