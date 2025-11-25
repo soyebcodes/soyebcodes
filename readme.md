@@ -16,7 +16,7 @@ Whether it's crafting intuitive UIs or architecting secure backend systems, I lo
 ### 👨‍💼 Currently Working On
 - Building advanced features with **Next.js 16** and **App Router**
 - Enhancing performance and accessibility in production-grade apps
-- Exploring **TypeScript** patterns and scalable state management with **Zustand**
+- Exploring **TypeScript** patterns and scalable state management with **Redux**
 
 🎯 My mission is to create impactful digital experiences while continuously growing as a developer.
 
