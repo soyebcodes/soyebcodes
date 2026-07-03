@@ -1,35 +1,53 @@
-<h1 align="center">Hi, I'm Soyeb Islam 👋</h1>
-<h3 align="center">Full-Stack Developer | React & Next.js Specialist</h3>
+# Hi, I'm Soyeb Islam 👋
 
-<p align="center">
-  <span>📍 Dhaka, Bangladesh</span>
-</p>
+**Full-Stack Developer | React & TypeScript Specialist**
+
+📍 Dhaka, Bangladesh
 
 ---
 
 ## 🚀 About Me
 
-I'm a self-driven MERN Stack Developer with hands-on experience in building scalable, user-friendly web applications.  
-I specialize in **React.js**, **Next.js**, and full-stack architecture using **Node.js**, **Express**, and **MongoDB**.  
-Whether it's crafting intuitive UIs or architecting secure backend systems, I love turning ideas into real-world solutions.
+I build scalable web applications with a strong focus on **code quality and reliability**.
+I specialize in React + TypeScript ecosystems and believe great software is software you can ship with confidence — backed by tests, clean architecture, and solid CI/CD practices.
 
-### 👨‍💼 Currently Working On
-- Building advanced features with **Next.js 16** and **App Router**
-- Enhancing performance and accessibility in production-grade apps
-- Exploring **TypeScript** patterns and scalable state management with **Redux**
+Whether it's crafting intuitive UIs, designing secure APIs, or setting up automated pipelines that catch issues before they hit production, I love solving real problems with maintainable solutions.
 
-🎯 My mission is to create impactful digital experiences while continuously growing as a developer.
+---
+
+## 👨‍💼 Currently Working On
+
+- Shipping production features with **React 18, Vite, and TypeScript**
+- Writing **testable code** — unit, integration, and E2E coverage
+- Building **CI/CD pipelines** with GitHub Actions and Docker
+- Exploring scalable state management and modern React patterns
+
+> 🎯 I care about the full lifecycle: write it, test it, ship it, iterate.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:** JavaScript (ES6+), TypeScript  
-**Frontend:** React.js, Next.js, Redux Toolkit, Zustand, TanStack Query, Tailwind CSS, ShadCN UI, Framer Motion  
-**Backend:** Node.js, Express.js, MongoDB, Firebase  
-**Tools:** Git, REST API, Jest, Vercel, Postman  
-**Soft Skills:** Problem-solving, Collaboration, Communication, Time Management, Adaptability
+**Frontend**
+`React` · `Next.js` · `TypeScript` · `Vite` · `Tailwind CSS` · `Redux Toolkit` · `Zustand` · `TanStack Query` · `Framer Motion`
+
+**Backend**
+`Node.js` · `Express.js` · `MongoDB` · `Supabase` · `PostgreSQL` · `Firebase`
+
+**Testing & Quality**
+`Vitest` · `Playwright` · `MSW` · `React Testing Library` · `Jest`
+
+**DevOps & Tools**
+`GitHub Actions` · `Docker` · `Git` · `REST API` · `Vercel` · `Postman`
 
 ---
 
-> “Simplicity is the soul of efficiency.” – Austin Freeman
+## 💡 What I Value
+
+- **Tests as documentation** — if it matters, it should be tested
+- **Developer experience** — fast feedback loops, clear error messages, smooth CI/CD
+- **Clean, readable code** — future me (and my teammates) will thank me
+
+---
+
+> *"Simplicity is the soul of efficiency." – Austin Freeman*
