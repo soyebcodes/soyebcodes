@@ -11,16 +11,13 @@ I specialize in React + TypeScript ecosystems and believe great software is soft
 
 Whether it's crafting intuitive UIs, designing secure APIs, or setting up automated pipelines that catch issues before they hit production, I love solving real problems with maintainable solutions.
 
-Over the past **9 months** (and counting), I've contributed to production platforms across **e-commerce, HR tech, ed-tech, and enterprise automation** — covering everything from customer-facing storefronts to internal admin tools and serverless automation workers. *(Project details are under NDA, so specifics aren't public — happy to discuss my role and impact privately.)*
-
 ---
 
 ## 👨‍💼 Currently Working On
 
-- Shipping production features with **React 18/19, Vite, and TypeScript**
-- Writing **testable code** — unit, integration, and E2E coverage
-- Building **CI/CD pipelines** with GitHub Actions and Docker
-- Exploring scalable state management and modern React patterns
+- Diving deeper into **Next.js advanced features** — App Router, server actions, caching strategies
+- Building and hardening **backend APIs** with Node.js, Supabase, and PostgreSQL
+- Picking up more **DevOps** — GitHub Actions, Docker, and CI/CD pipelines
 
 > 🎯 I care about the full lifecycle: write it, test it, ship it, iterate.
 
@@ -42,14 +39,6 @@ Over the past **9 months** (and counting), I've contributed to production platfo
 
 **Specialized Integrations**
 `Stripe` · `Puppeteer` (automation/scraping) · `BullMQ` (job queues) · `D3.js` & `Recharts` (data viz) · `Tiptap` (rich text) · `WebRTC/Webcam` · `PDF.js` / `pdf-lib`
-
----
-
-## 📊 By the Numbers
-
-- 🏢 **4 product domains** — E-commerce, HR Tech, Ed-Tech, Enterprise Automation
-- 🗂️ **13+ applications** shipped across frontend, backend, and serverless infra
-- 🧩 Full-stack coverage: UI → APIs → databases → automation pipelines
 
 ---
 
